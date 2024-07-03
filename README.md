@@ -19,9 +19,9 @@ Pricing Plans: Comprehensive pricing information for different service packages.
 Coverage Map: Interactive map showing areas with Starlink coverage.
 Contact Form: Easy way for users to get in touch with customer support.
 Responsive Design: Optimized for various devices including desktops, tablets, and smartphones.
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript, Tailwind CSS
-Backend: [If applicable, mention any backend technology used]
 Tools: Git, GitHub
 Installation
 To run this project locally, follow these steps:
@@ -56,11 +56,10 @@ Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Contact
-For any inquiries or issues, please reach out to us at [your-email@example.com].
+For any inquiries or issues, please reach out to us at rohitdey1239@gmail.com.
 
 Feel free to customize the sections according to your project specifics.
 
@@ -68,5 +67,3 @@ Feel free to customize the sections according to your project specifics.
 
 
 
-Why do i need license ?
-ChatGPT
