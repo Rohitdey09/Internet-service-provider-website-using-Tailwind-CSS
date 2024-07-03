@@ -1,7 +1,7 @@
 <h1>Starlink Internet Service Provider Website</h1>
 Welcome to the official repository for the Starlink Internet Service Provider website. This project showcases the services and features of Starlink, a company dedicated to providing high-speed internet via satellite.
 
-Table of Contents
+<h2>Table of Contents</h2>
 Introduction
 Features
 Technologies Used
@@ -10,45 +10,49 @@ Usage
 Contributing
 License
 Contact
-Introduction
+
+<h2>Introduction</h2>
 Starlink is revolutionizing internet connectivity by delivering fast, reliable internet services through a constellation of satellites. This website serves as a platform to learn more about our services, pricing, and coverage.
 
-Features
+<h2>Features</h2>
 Service Information: Detailed descriptions of the internet plans and services offered by Starlink.
 Pricing Plans: Comprehensive pricing information for different service packages.
-Coverage Map: Interactive map showing areas with Starlink coverage.
 Contact Form: Easy way for users to get in touch with customer support.
 Responsive Design: Optimized for various devices including desktops, tablets, and smartphones.
 
 Technologies Used
 Frontend: HTML, CSS, JavaScript, Tailwind CSS
 Tools: Git, GitHub
-Installation
+
+<h2>Installation</h2>
 To run this project locally, follow these steps:
 
-Clone the repository:
+<h3>1.Clone the repository:</h3>
 
 sh
 Copy code
 git clone https://github.com/your-username/starlink-website.git
 cd starlink-website
-Install dependencies (if applicable):
+
+<h3>2.Install dependencies (if applicable):</h3>
 
 sh
 Copy code
 npm install
-Run the project:
+
+<h3>3.Run the project:</h3>
 
 sh
 Copy code
 npm start
 or simply open the index.html file in your browser.
 
-Usage
+<h2>Usage</h2>
 Visit the homepage to learn about Starlink services.
 Navigate through different sections to explore features and pricing.
 Use the contact form for inquiries or support.
-Contributing
+
+<h2>Contributing</h2>
 We welcome contributions to improve our website. To contribute:
 
 Fork the repository.
@@ -58,7 +62,7 @@ Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 
 
-Contact
+<h2>Contact</h2>
 For any inquiries or issues, please reach out to us at rohitdey1239@gmail.com.
 
 Feel free to customize the sections according to your project specifics.
